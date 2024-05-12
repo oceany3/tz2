@@ -1,3 +1,5 @@
+[![Badge](https://github.com/oceany3/Task-CI/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/oceany3/Task-CI/actions/workflows/github-actions-demo.yml)
+
 # Описание
 ## Здравствуйте! Меня зовут Вера Куимова, 233 группа. Это моё выполненное ТЗ2 по Технологиям программирования.
 ### В приложенной папке вы найдете:
